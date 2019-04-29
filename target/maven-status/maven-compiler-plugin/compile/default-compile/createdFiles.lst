@@ -1,0 +1,9 @@
+br/com/victor/assist/todo/service/TodoService.class
+br/com/victor/assist/todo/repository/TodoRepository.class
+br/com/victor/assist/todo/service/TodoServiceImpl.class
+br/com/victor/assist/todo/domain/Status.class
+br/com/victor/assist/todo/controller/TodoController.class
+br/com/victor/assist/todo/domain/Todo.class
+br/com/victor/assist/AssistApplication.class
+br/com/victor/assist/stock_market/controller/StockMarketSocket.class
+br/com/victor/assist/stock_market/config/WebSocketConfig.class
